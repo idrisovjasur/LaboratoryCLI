@@ -1,2 +1,1 @@
 # LaboratoryCLI
-# Linux Command Promp
