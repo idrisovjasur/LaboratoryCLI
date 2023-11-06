@@ -16,4 +16,7 @@ Ushbu laboratoriya uchun biz 3 ta turli linux terminallarini ishga tushiramiz.
 
 
 Linux terminalingizda quyidagi buyruqni bajaring:
-<sudo su ->
+```bash
+sudo su -
+```
+
