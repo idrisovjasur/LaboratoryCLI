@@ -12,11 +12,13 @@ Ushbu laboratoriya uchun biz 3 ta turli linux terminallarini ishga tushiramiz.
 ***Ikkinchisi, biz unga ulanadigan joy bo'ladi.***
 ***Uchinchisi, biz tahlil qiladigan oyna yan'ni,Processlarni ko'rish uchun.***
 
+
+
 **Terminalni administrator sifatida ochishdan boshlaymiz.**
 
 
 Linux terminalingizda quyidagi buyruqni bajaring:
-```bash
+```python
 sudo su -
 ```
 
